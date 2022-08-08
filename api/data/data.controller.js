@@ -10,7 +10,7 @@ module.exports = {
         Connection: "keep-alive",
         "Accept-Encoding": "gzip, deflate, br",
         cookie:
-          "ak_bmsc=86BBC566F6E3EA12E2532333B6EA6302~000000000000000000000000000000~YAAQrowsMdBQZWKCAQAAcXajexDOng8Or63I9wEgMGaVi4jgtKyYMmRIFtNlEId+Bq2GGO9DMFffHD8isMj5s7XK6mcNzDlAjynl3OBLW0qpztc2J8b6WQUfvN3QEIEI4wVJt+YxzcR/HWevT5vBl59sGsPJKK9ZRbdegCGj9JPo2tU6sqXRmU0k2eNJn5tvzeXFtKjlUmxr2lvkEIYgcSpsH+3o7OrjTLxG5P0rUJc3C6vWbM9hdoaQq3EbWiKXHt2Jk7BKQulWW/+PE8/vvlY1VcBQ8XnWYGZrvFH1HHdKsiPGgl/NjkHCsRYhrecrQPSxQfLziiTXvHcqcXBwbuWOvebarF2lP+pOf2LHcBxe3FqziRhsUwVghxBMFMB6Vk0858sF+DWVA/U=; Domain=.nseindia.com; Path=/; Max-Age=7200; HttpOnly",
+          "ak_bmsc=86BBC566F6E3EA12E2532333B6EA6302~000000000000000000000000000000~YAAQrowsMdBQZWKCAQAAcXajexDOng8Or63I9wEgMGaVi4jgtKyYMmRIFtNlEId+Bq2GGO9DMFffHD8isMj5s7XK6mcNzDlAjynl3OBLW0qpztc2J8b6WQUfvN3QEIEI4wVJt+YxzcR/HWevT5vBl59sGsPJKK9ZRbdegCGj9JPo2tU6sqXRmU0k2eNJn5tvzeXFtKjlUmxr2lvkEIYgcSpsH+3o7OrjTLxG5P0rUJc3C6vWbM9hdoaQq3EbWiKXHt2Jk7BKQulWW/+PE8/vvlY1VcBQ8XnWYGZrvFH1HHdKsiPGgl/NjkHCsRYhrecrQPSxQfLziiTXvHcqcXBwbuWOvebarF2lP+pOf2LHcBxe3FqziRhsUwVghxBMFMB6Vk0858sF+DWVA/U=; Domain=.nseindia.com; Path=/; Expires=Fri, 08 Aug 2025 06:08:06 GMT; Max-Age=7200; HttpOnly",
       },
     })
       .then((result) => {
